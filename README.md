@@ -1,13 +1,13 @@
-# ASD Project
+# Opal Card
+This university project is based on the NSW Opal card website. It aims to show off the ability to register users, add cards and top up existing cards.
 
-Shaping up to be a transport card management app.
+## Running the program
 
-## Running the react boilerplate
-
-Ensure that npm is installed. Navigate into the frontend directory and use the following commands:
+Ensure that npm is installed and then run the following commands:
 ```
+cd frontend
 npm install
-npm start
+cd ..
+npm install
+nom run dev
 ```
-
-Just a test of git committing/pushing, disregard this.
